@@ -1,9 +1,9 @@
-# 💫 About Me:
-- 🎓 I'm Riccardo Dal Bianco, a Computer Science graduate from the University of Padua 🇮🇹 </br>
+# 🤙 Ciaoo! I'm Riccardo Dal Bianco:
+- 🎓 Computer Science graduate from the @[University of Padua](https://www.unipd.it/) </br>
 - 🎯 Passionate about personal growth, clean code, and continuous learning </br> 
-- 📚 Starting this October, I’ll begin my Master’s in Computer Science – Artificial Intelligence at the University of Padua </br> 
+- 📚 Starting this October, I’ll begin my Master’s in [Computer Science](https://informatica.math.unipd.it/en/master/) – Artificial Intelligence at the University of Padua  </br> 
 - 🛠️ I enjoy solving problems through technology and pushing my boundaries, both personally and professionally </br>
-- 🌍 Outside of tech, I’m into football ⚽, DJing 🎧, and outdoor adventures ⛰️
+- 🌍 Outside of tech, I’m into football ⚽, DJing 🎧, and outdoor adventures ⛰️ </br> 
 
 
 
